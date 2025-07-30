@@ -12,8 +12,8 @@
 A *pixel* is a small piece of code (usually JavaScript) added to a site that collects data about user actions (pageviews, purchases, etc.) and sends it to a platform like Facebook or Google.
 
 **Resources:**
-- [Meta Pixel Overview (Facebook)](https://www.facebook.com/business/help/952192354843755)
-- [Video: How Facebook Pixel Works](https://www.youtube.com/watch?v=wzGb9yTOZTg)
+- [Pixel Overview](https://www.digitalmarketer.com/blog/what-is-tracking-pixel/?srsltid=AfmBOoo0XGA8VKxgelLZTs_FqF8_x_hxUr2iypItTUSIjUkNVnfvLEj-)
+- [Video: How Facebook Pixel Works](https://www.youtube.com/watch?v=rrAjCHm7qRU)
 
 ---
 
