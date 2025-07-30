@@ -21,8 +21,8 @@ A *pixel* is a small piece of code (usually JavaScript) added to a site that col
 A *tag* is a snippet of tracking code added to a site to collect data. Tags help you send event or session data to tools like Google Analytics or Facebook Ads.
 
 **Resources:**
-- [What are Tags (Google)](https://support.google.com/tagmanager/answer/6102821)
-- [Tags vs Pixels vs Events](https://www.analyticsmania.com/post/tags-triggers-variables/)
+- [What are Tags (Google)](https://developers.google.com/analytics/devguides/collection/ga4/tag-options)
+- [Tags and Pixels](https://crackfaang.medium.com/ad-pixels-tags-the-ultimate-guide-for-digital-marketers-80617bf65dfd)
 
 ---
 
