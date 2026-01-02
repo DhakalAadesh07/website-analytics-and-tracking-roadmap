@@ -39,8 +39,8 @@ A *tag* is a snippet of tracking code added to a site to collect data. Tags help
 A *variable* holds dynamic values (e.g., URL, click text) that are used by GTM tags or triggers.
 
 **Resources:**
-- [Guide: GTM Variables](https://www.analyticsmania.com/post/google-tag-manager-variables/)
-- [Video: Understanding Variables](https://www.youtube.com/watch?v=VD0GYA_yBv8)
+- [Guide: GTM Variables](https://measureschool.com/google-tag-manager-variables)
+- [Video: Understanding Variables](https://www.youtube.com/watch?v=-5DmcUnWFr0)
 
 ---
 
