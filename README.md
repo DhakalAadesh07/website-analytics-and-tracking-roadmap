@@ -63,7 +63,7 @@ A *session* is a period of active user engagement. One user can have multiple se
 
 ---
 
-## LEVEL 2: Pixel-Based Tracking (Hands-On)
+## LEVEL 2: Pixel-Based Tracking (Hands-On) (Skip if you only deal with Google ecosystem)
 
 ---
 
