@@ -31,7 +31,7 @@ A *tag* is a snippet of tracking code added to a site to collect data. Tags help
 
 **Resources:**
 - [GTM Help: Triggers](https://support.google.com/tagmanager/answer/7679219)
-- [Video: GTM Triggers Explained](https://www.youtube.com/watch?v=O-MVkAwvL08)
+- [Video: GTM Triggers Explained](https://www.youtube.com/watch?v=MUChvW9s0aA)
 
 ---
 
