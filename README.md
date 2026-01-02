@@ -73,7 +73,6 @@ Tracks site activity (e.g. pageviews, purchases) and sends it to Facebook Ads Ma
 **Resources:**
 - [Meta Pixel Setup Guide](https://www.facebook.com/business/help/952192354843755)
 - [Video Tutorial](https://www.youtube.com/watch?v=WazafPAYdOo)
-- [Facebook Pixel Helper (Chrome)](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc)
 
 ---
 
@@ -82,7 +81,7 @@ Track conversions and audiences for ad platforms.
 
 **Resources:**
 - [LinkedIn Insight Tag Setup](https://www.linkedin.com/help/lms/answer/a420552)
-- [TikTok Pixel Guide](https://ads.tiktok.com/help/article?aid=10010738)
+- [TikTok Pixel Guide](https://ads.tiktok.com/help/article/tiktok-pixel)
 
 ---
 
@@ -94,7 +93,6 @@ Track conversions and audiences for ad platforms.
 GTM allows you to manage and deploy marketing and analytics tags on your website **without changing code** each time.
 
 **Resources:**
-- [GTM for Beginners (Video Course)](https://www.youtube.com/watch?v=pnNTumVZq4E)
 - [Official Install Guide](https://support.google.com/tagmanager/answer/6103696)
 - [CodePen for practice](https://codepen.io)
 
