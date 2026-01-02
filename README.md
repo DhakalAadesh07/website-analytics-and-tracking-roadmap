@@ -1,14 +1,14 @@
-# 🧭 Website Analytics & Tracking Roadmap
+# Website Analytics & Tracking Roadmap
 
 > A complete beginner-friendly roadmap to learn how to measure and track website activity using tools like GA4, Google Tag Manager, Meta Pixel, Microsoft Clarity, Hotjar, and more. Structured for clarity, real-world application, and team learning.
 
 ---
 
-## ✅ LEVEL 1: Web Tracking Foundations
+## LEVEL 1: Web Tracking Foundations
 
 ---
 
-### 🔹 What is a Pixel?
+### What is a Pixel?
 A *pixel* is a small piece of code (usually JavaScript) added to a site that collects data about user actions (pageviews, purchases, etc.) and sends it to a platform like Facebook or Google.
 
 **Resources:**
@@ -17,7 +17,7 @@ A *pixel* is a small piece of code (usually JavaScript) added to a site that col
 
 ---
 
-### 🔹 What is a Tag?
+### What is a Tag?
 A *tag* is a snippet of tracking code added to a site to collect data. Tags help you send event or session data to tools like Google Analytics or Facebook Ads.
 
 **Resources:**
@@ -26,7 +26,7 @@ A *tag* is a snippet of tracking code added to a site to collect data. Tags help
 
 ---
 
-### 🔹 What is a Trigger?
+### What is a Trigger?
 *Triggers* define **when** a tag should fire (e.g., page load, button click).
 
 **Resources:**
@@ -35,7 +35,7 @@ A *tag* is a snippet of tracking code added to a site to collect data. Tags help
 
 ---
 
-### 🔹 What is a Variable?
+### What is a Variable?
 A *variable* holds dynamic values (e.g., URL, click text) that are used by GTM tags or triggers.
 
 **Resources:**
@@ -44,7 +44,7 @@ A *variable* holds dynamic values (e.g., URL, click text) that are used by GTM t
 
 ---
 
-### 🔹 What is a Session?
+### What is a Session?
 A *session* is a period of active user engagement. One user can have multiple sessions.
 
 **Resources:**
@@ -53,7 +53,7 @@ A *session* is a period of active user engagement. One user can have multiple se
 
 ---
 
-### 🔹 Client-side vs Server-side Tracking
+### Client-side vs Server-side Tracking
 **Client-side**: Browser sends tracking info  
 **Server-side**: Website server sends tracking info (more secure/privacy-friendly)
 
@@ -63,11 +63,11 @@ A *session* is a period of active user engagement. One user can have multiple se
 
 ---
 
-## ✅ LEVEL 2: Pixel-Based Tracking (Hands-On)
+## LEVEL 2: Pixel-Based Tracking (Hands-On)
 
 ---
 
-### 🔹 Meta Pixel
+### Meta Pixel
 Tracks site activity (e.g. pageviews, purchases) and sends it to Facebook Ads Manager.
 
 **Resources:**
@@ -77,7 +77,7 @@ Tracks site activity (e.g. pageviews, purchases) and sends it to Facebook Ads Ma
 
 ---
 
-### 🔹 LinkedIn Insight Tag / TikTok Pixel
+### LinkedIn Insight Tag / TikTok Pixel
 Track conversions and audiences for ad platforms.
 
 **Resources:**
@@ -86,11 +86,11 @@ Track conversions and audiences for ad platforms.
 
 ---
 
-## ✅ LEVEL 3: Google Tag Manager (GTM)
+## LEVEL 3: Google Tag Manager (GTM)
 
 ---
 
-### 🔹 What is GTM?
+### What is GTM?
 GTM allows you to manage and deploy marketing and analytics tags on your website **without changing code** each time.
 
 **Resources:**
@@ -100,7 +100,7 @@ GTM allows you to manage and deploy marketing and analytics tags on your website
 
 ---
 
-### 🔹 GTM Preview & Debug Mode
+### GTM Preview & Debug Mode
 Test if tags are firing correctly before publishing.
 
 **Resources:**
@@ -109,11 +109,11 @@ Test if tags are firing correctly before publishing.
 
 ---
 
-## ✅ LEVEL 4: Google Analytics 4 (GA4)
+## LEVEL 4: Google Analytics 4 (GA4)
 
 ---
 
-### 🔹 What is GA4?
+### What is GA4?
 Google's next-gen analytics platform focused on events, privacy, and cross-device tracking.
 
 **Resources:**
@@ -123,7 +123,7 @@ Google's next-gen analytics platform focused on events, privacy, and cross-devic
 
 ---
 
-### 🔹 Events, Parameters & Conversions
+### Events, Parameters & Conversions
 - **Event**: Any user action
 - **Parameter**: Additional info about the event
 - **Conversion**: A key action (e.g., sign-up, purchase)
@@ -134,11 +134,11 @@ Google's next-gen analytics platform focused on events, privacy, and cross-devic
 
 ---
 
-## ✅ LEVEL 5: Session Recording & Heatmap Tools
+## LEVEL 5: Session Recording & Heatmap Tools
 
 ---
 
-### 🔹 Microsoft Clarity
+### Microsoft Clarity
 Free tool for session recording, heatmaps, and click maps.
 
 **Resources:**
@@ -147,7 +147,7 @@ Free tool for session recording, heatmaps, and click maps.
 
 ---
 
-### 🔹 Hotjar
+### Hotjar
 Visualizes user behavior and collects feedback.
 
 **Resources:**
@@ -156,11 +156,11 @@ Visualizes user behavior and collects feedback.
 
 ---
 
-## ✅ LEVEL 6: Google Ecosystem Tools
+## LEVEL 6: Google Ecosystem Tools
 
 ---
 
-### 🔹 Google Search Console
+### Google Search Console
 Tracks site performance in Google search (keywords, clicks, indexing issues).
 
 **Resources:**
@@ -169,7 +169,7 @@ Tracks site performance in Google search (keywords, clicks, indexing issues).
 
 ---
 
-### 🔹 Google Ads Conversion Tracking
+### Google Ads Conversion Tracking
 Tracks important actions as conversions for ad optimization.
 
 **Resources:**
@@ -178,7 +178,7 @@ Tracks important actions as conversions for ad optimization.
 
 ---
 
-### 🔹 Consent Mode v2
+### Consent Mode v2
 Ensures compliance with user consent (GDPR, etc.).
 
 **Resources:**
@@ -187,11 +187,11 @@ Ensures compliance with user consent (GDPR, etc.).
 
 ---
 
-## ✅ LEVEL 7: Debugging & Final Implementation
+## LEVEL 7: Debugging & Final Implementation
 
 ---
 
-### 🔹 Debugging Tools
+### Debugging Tools
 Use Chrome extensions and GTM Preview to validate tags and tracking.
 
 **Resources:**
@@ -204,7 +204,7 @@ Use Chrome extensions and GTM Preview to validate tags and tracking.
 
 ---
 
-## 🧪 Final Project: Your First Full Tracking Stack
+## Final Project: Your First Full Tracking Stack
 
 **Goals:**
 - Add GTM to a test site
@@ -219,5 +219,5 @@ Use Chrome extensions and GTM Preview to validate tags and tracking.
 
 ---
 
-🎉 You now have a clear, practical foundation to track user behavior, power ad strategies, and generate real business insights from your site.
+You now have a clear, practical foundation to track user behavior, power ad strategies, and generate real business insights from your site.
 
