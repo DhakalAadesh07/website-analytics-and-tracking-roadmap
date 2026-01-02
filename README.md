@@ -58,8 +58,8 @@ A *session* is a period of active user engagement. One user can have multiple se
 **Server-side**: Website server sends tracking info (more secure/privacy-friendly)
 
 **Resources:**
-- [Client vs Server-side](https://www.analyticsmania.com/post/server-side-tracking-vs-client-side/)
-- [Video Overview](https://www.youtube.com/watch?v=89UvLvC1k0k)
+- [Client vs Server-side](https://usercentrics.com/guides/server-side-tagging/server-side-vs-client-side-tracking/)
+- [Video Overview](https://www.youtube.com/watch?v=waqBSk3vkko)
 
 ---
 
