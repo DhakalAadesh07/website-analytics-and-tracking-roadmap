@@ -48,8 +48,8 @@ A *variable* holds dynamic values (e.g., URL, click text) that are used by GTM t
 A *session* is a period of active user engagement. One user can have multiple sessions.
 
 **Resources:**
-- [Analytics Glossary – Google](https://support.google.com/analytics/answer/3123951)
-- [Video: Sessions vs Users](https://www.youtube.com/watch?v=3jUp1Hek1Sk)
+- [Analytics Glossary – Google](https://support.google.com/analytics/answer/9191807)
+- [Video: Sessions](https://www.youtube.com/watch?v=MUQnmOnhKMY)
 
 ---
 
