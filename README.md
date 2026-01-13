@@ -103,7 +103,6 @@ Test if tags are firing correctly before publishing.
 
 **Resources:**
 - [Tag Assistant Tool](https://tagassistant.google.com/)
-- [Video Walkthrough](https://www.youtube.com/watch?v=VX5OaL3jHvo)
 
 ---
 
@@ -116,8 +115,8 @@ Google's next-gen analytics platform focused on events, privacy, and cross-devic
 
 **Resources:**
 - [GA4 Official Docs](https://support.google.com/analytics/answer/10089681)
-- [GA4 vs UA](https://www.analyticsmania.com/post/ga4-vs-universal-analytics/)
-- [GA4 + GTM Setup Video](https://www.youtube.com/watch?v=Vv-7pmS8V5A)
+- [GA4 vs UA](https://www.rudderstack.com/learn/GA4/ga4-vs-universal-analytics/)
+- [GA4 + GTM Setup Video](https://www.youtube.com/watch?v=UuE37-MM1ws&t=510s)
 
 ---
 
@@ -128,7 +127,7 @@ Google's next-gen analytics platform focused on events, privacy, and cross-devic
 
 **Resources:**
 - [GA4 Event Docs](https://support.google.com/analytics/answer/9267735)
-- [Custom Event Tracking with GTM](https://www.analyticsmania.com/post/google-analytics-4-event-tracking/)
+- [Custom Event Tracking with GTM](https://measureschool.com/ga4-custom-events/)
 
 ---
 
@@ -141,7 +140,7 @@ Free tool for session recording, heatmaps, and click maps.
 
 **Resources:**
 - [Install Clarity](https://clarity.microsoft.com/)
-- [Clarity Intro Video](https://www.youtube.com/watch?v=rM8hgy1h1Ss)
+- [Clarity Intro Video](https://www.youtube.com/watch?v=cCfPxElfAz0)
 
 ---
 
@@ -150,7 +149,7 @@ Visualizes user behavior and collects feedback.
 
 **Resources:**
 - [Install Hotjar](https://help.hotjar.com/hc/en-us/articles/115009336727-How-to-Install-Hotjar)
-- [Hotjar vs GA4](https://www.hotjar.com/blog/google-analytics-4-vs-hotjar/)
+- [Hotjar vs GA4](https://www.hotjar.com/blog/hotjar-vs-google-analytics/)
 
 ---
 
@@ -163,7 +162,7 @@ Tracks site performance in Google search (keywords, clicks, indexing issues).
 
 **Resources:**
 - [Intro to Search Console](https://search.google.com/search-console/about)
-- [Setup Video](https://www.youtube.com/watch?v=V7Fxmc6zFDE)
+- [Setup Video](https://www.youtube.com/watch?v=ONr5Z7VhNFI)
 
 ---
 
@@ -172,7 +171,7 @@ Tracks important actions as conversions for ad optimization.
 
 **Resources:**
 - [Conversion Setup via GTM](https://support.google.com/google-ads/answer/6095821)
-- [Video: Google Ads + GTM](https://www.youtube.com/watch?v=Ln9qxfgdIj8)
+- [Video: Google Ads + GTM](https://www.youtube.com/watch?v=U3kWbEaRNxg)
 
 ---
 
